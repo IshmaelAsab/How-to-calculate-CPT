@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
+    "name": "CPT Calculator",
+    "tagline": "Cost Per Thousand Calculator for Media & Advertisers",
+    "description": "An interactive tool for calculating CPT (Cost Per Thousand) impressions. Perfect for media planning, advertising campaigns, and training purposes.",
     "ogImage": "/og-image.png",
     "twitterHandle": "",
     "contact": {
       "email": "contact@example.com",
-      "company": "Your Company",
+      "company": "Media Training Tools",
       "address": ""
     },
     "legal": {
