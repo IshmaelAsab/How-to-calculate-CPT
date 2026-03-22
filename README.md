@@ -1,18 +1,8 @@
-# Minimal Starter
+# Overview
 
-A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.
+Cost Per Thousand Calculator
 
-## ✨ Features
-
-- 🚀 **Modern Stack**: React 19, TypeScript, Vite, Tailwind CSS
-- 🎨 **Beautiful UI**: shadcn/ui components with customizable design tokens
-- 📱 **Responsive**: Mobile-first design with dark/light theme support
-- ⚡ **Performance**: Cloudflare Workers backend with sub-second response times
-- 🗄️ **Database**: Drizzle ORM with D1 database
-- 🧪 **Type Safety**: Comprehensive TypeScript setup
-- 🔧 **Developer Experience**: Hot reload, ESLint, and modern tooling
-
-## 🏗️ Architecture
+## Architecture
 
 ```
 ├── src/                    # Frontend React application
@@ -30,7 +20,7 @@ A clean, minimal starter template providing the perfect foundation for your next
 └── instructions/          # Documentation for adding features
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -62,7 +52,7 @@ bun run dev
 
 5. Visit `http://localhost:5173` to see your application.
 
-## 📦 Available Scripts
+## Available Scripts
 
 - `bun run dev` - Start development server
 - `bun run build` - Build for production
@@ -70,11 +60,7 @@ bun run dev
 - `bun run pre-deploy` - Generate database migrations
 - `bun run db:generate` - Generate database types
 
-## 🎨 Customization
-
-### Theming
-
-The template uses semantic design tokens defined in `src/styles/global.css`. Customize colors, spacing, and typography by modifying the CSS custom properties.
+## Customization
 
 ### Adding New Pages
 
@@ -88,7 +74,7 @@ The template uses semantic design tokens defined in `src/styles/global.css`. Cus
 - Use shadcn/ui as a base for new components
 - Follow the existing patterns for props and styling
 
-## 🌐 Deployment
+## Deployment
 
 ### Cloudflare Workers
 
@@ -119,7 +105,7 @@ VITE_BETTER_AUTH_URL=https://your-domain.com
 # Additional services as needed
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Database Guide](./instructions/database.md)
 - [Theming](./instructions/theming.md)
@@ -127,7 +113,7 @@ VITE_BETTER_AUTH_URL=https://your-domain.com
 - [Authentication](./instructions/authentication.md)
 - [Billing](./instructions/billing.md)
 
-## 🛠️ Development
+## Development
 
 ### Code Style
 
@@ -142,10 +128,10 @@ VITE_BETTER_AUTH_URL=https://your-domain.com
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 MIT License - see LICENSE file for details.
 
 ---
 
-**Minimal Starter** - Your creative canvas awaits. 🎨
+**Minimal Starter** - Your creative canvas awaits. 
